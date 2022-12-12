@@ -1,8 +1,8 @@
 package main
 
 import (
-	"flime-mockserver/handler"
-	"flime-mockserver/logger"
+	"flyme-mockserver/handler"
+	"flyme-mockserver/logger"
 	"net/http"
 
 	"github.com/labstack/echo/v4"

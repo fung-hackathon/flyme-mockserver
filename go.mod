@@ -1,4 +1,4 @@
-module flime-mockserver
+module flyme-mockserver
 
 go 1.19
 

@@ -1,7 +1,7 @@
 package handler
 
 import (
-	"flime-mockserver/response"
+	"flyme-mockserver/response"
 	"net/http"
 	"strconv"
 
